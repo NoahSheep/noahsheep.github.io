@@ -108,7 +108,7 @@ Temporary Items
 bin/
 tmp/
 *.tmp
-*.bak
+#*.bak
 *.swp
 *~.nib
 local.properties
